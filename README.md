@@ -7,11 +7,11 @@ This repository contains our **Scientific Programming (SKEE 1033)** group assign
  **Course:** SKEE 1033 – Scientific Programming  
  **Session:** 2025/2026 Semester 1  
 
-🎓Lecturer: Prof. Madya Muhammad Muni’m Bin Ahmad Zabidi
+#🎓Lecturer: Prof. Madya Muhammad Muni’m Bin Ahmad Zabidi
 
 Group Name: Brilliant Bluejay
 
-## 🧾Group Members
+# 🧾Group Members
 | No | Name | Matric Number |
 |----|------|---------------|
 | 1 | Ong Ting Haw | A25KE0367 |
