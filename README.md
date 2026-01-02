@@ -1,15 +1,17 @@
-# Welcome to Group Brilliant Bluejay, here is the place we upload our assignment of Scientific Progrmming 
-Session 2025/2026 Semester 1<br/>
+# 🐦Group Brilliant Bluejay
 
-SKEE 1033 - Scientific Programming<br/>
+Welcome to **Group Brilliant Bluejay**’s repository.  
+This repository contains our **Scientific Programming (SKEE 1033)** group assignment, where we apply Python programming and data analysis techniques to analyse household electricity consumption data.
 
-Section : 17
+ **Faculty:** Electrical Engineering
+ **Course:** SKEE 1033 – Scientific Programming  
+ **Session:** 2025/2026 Semester 1  
 
-Lecturer: Prof. Madya Muhammad Muni’m Bin Ahmad Zabidi
+🎓Lecturer: Prof. Madya Muhammad Muni’m Bin Ahmad Zabidi
 
 Group Name: Brilliant Bluejay
 
-## Group Members
+## 🧾Group Members
 | No | Name | Matric Number |
 |----|------|---------------|
 | 1 | Ong Ting Haw | A25KE0367 |
