@@ -1,1 +1,1 @@
-# tinghaw555-Assignment-Group-Brilliant-Bluejay-SKEE-1033-Scientific-Programming-
+# Assignment-Group-Brilliant-Bluejay-SKEE-1033-Scientific-Programming
