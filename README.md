@@ -28,21 +28,12 @@
 | 2.0 | Objective |
 | 3.0 | Work Division|
 | 4.0 | Task 1  |
-| | -Code  |
-| | -Result  |
 | 5.0 | Task 2  |
-| | -Code  |
-| | -Result  |
-| | -Discussion  |
 | 6.0 | Task 3  |
-| | -Code  |
-| | -Result  |
-| | -Discussion  |
 | 7.0 | Task 4  |
-| | -Code  |
-| | -Result  |
-| 8.0| Conclusion  |
-| 9.0| Reference  |
+| 8.0 | Colab link|
+| 9.0| Conclusion  |
+| 10.0| Reference  |
 ---
 
 ## 1.0 Introduction
@@ -116,7 +107,11 @@ prediction.
 - Code and procedure refer to code cells.
 
 ---
-## 8.0 Conclusion
+## 8.0 Colab link
+https://colab.research.google.com/drive/1d1peUgqZnl_WSIuCu1-eQElKRrhFLlZe?usp=sharing
+
+---
+## 9.0 Conclusion
 
 This assignment demonstrates the practical use of Python for analysing household electricity consumption data from urban, suburban, and rural areas between 2018 and 2022. Data cleaning techniques such as interpolation and the IQR method were used to handle missing values and identify outliers, improving the quality of the dataset.
 
@@ -125,7 +120,7 @@ The analysis revealed differences in electricity usage across regions, with larg
 
 ---
 
-## 9.0 References
+## 10.0 References
 
 1. Python Documentation – https://docs.python.org/3/  
 2. Pandas Documentation – https://pandas.pydata.org/  
